@@ -1,7 +1,5 @@
 # QuickMaths4Kids
 
-## Code Description
-
 The provided Python code consists of a quiz game that presents the user with several options to choose from, including Odd or Even, Addition, Subtraction, Multiplication, Division, and a Scoreboard. Each option has a set of questions that the user needs to answer correctly to gain points.
 
 - ODD or EVEN: the user is shown several numbers and asked to determine whether they are odd or even.
@@ -22,25 +20,3 @@ The provided Python code consists of a quiz game that presents the user with sev
 5. To exit the program, select option 7 from the menu.
 
 Enjoy!
-
-## Example Output
-
----
-
-/ ** \ (_) | | | \/ | | | | | | || | | |/ (_) | |  
-| | | |\_ \_ \_ \_**| | ** | \ / | ** _| |_| |** \_** | || |_ | ' / _ **| |\_**
-| | | | | | | |/ **| |/ / | |\/| |/ \_` | **| '_ \/ **| |** _| | < | |/ _` / **|
-| |**| | |_| | | (**| < | | | | (_| | |_| | | \__ \ | | | . \| | (_| \_\_  
-\_**\_\\**,_|_|\_** |_|\_\ |_| |\_|\__,_|\__|_| |\_|**_/ |_| |\_|\_\_|\__,_|\_**/
-+----------------------------------------------------------------------------------+
-Choose one of the quick games below:
-+----------------------------------------------------------------------------------+
-[1] ODD or EVEN
-[2] + Addition
-[3] - Subtraction
-[4] X Multiplication
-[5] ÷ Division
-[6] = Scoreboard
-[7] Exit
-+----------------------------------------------------------------------------------+
-Please enter your choice:
